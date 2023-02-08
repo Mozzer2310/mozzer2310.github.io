@@ -1,19 +1,16 @@
-## Portfolio
+## My Projects
 
 ---
 
-### Category Name 1 
+### University Projects
 
-[Project 1 Title](/sample_page)
+[An Object Detection and Tracking System for
+Drone Navigation](/3-year-project)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[CloudU](/cloudu)
+<embed src="pdf/cloudU-poster.pdf" type="application/pdf">
 
 ---
 
