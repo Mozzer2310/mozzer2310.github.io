@@ -10,7 +10,8 @@ Drone Navigation](/3-year-project)
 
 ---
 [CloudU](/cloudu)
-<embed src="pdf/cloudU-poster.pdf" type="application/pdf">
+<!-- <embed src="pdf/cloudU-poster.pdf" type="application/pdf"> -->
+<iframe width="100%" height="800" src="pdf/cloudU-poster.pdf">
 
 ---
 
