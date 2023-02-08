@@ -11,7 +11,7 @@ This project was done as my 1st year team project for university, we had to do t
 - PHP & MYSQL - for back-end development
 
 ## PDF used for Final Presentation
-[Project 2 Title](/pdf/cloudU-presentation.pdf)
+[CloudU Project Presentation (pdf)](/pdf/cloudU-presentation.pdf)
 
 ## Video Showcase
 > Obtaining from colleague
