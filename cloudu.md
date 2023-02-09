@@ -14,7 +14,7 @@ This project was done as my 1st year team project for university, we had to do t
 [CloudU Project Presentation (pdf)](/pdf/cloudU-presentation.pdf)
 
 ## Video Showcase
-<video controls>
+<video width="100%" controls>
   <source src="videos/cloudu.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
