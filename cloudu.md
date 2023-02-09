@@ -14,4 +14,9 @@ This project was done as my 1st year team project for university, we had to do t
 [CloudU Project Presentation (pdf)](/pdf/cloudU-presentation.pdf)
 
 ## Video Showcase
-> Obtaining from colleague
+<video controls>
+  <source src="videos/cloudu.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+*Video made by my friend and colleague [Tony Lay](https://www.linkedin.com/in/tony-lay-b69981223/).*
